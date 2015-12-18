@@ -14,8 +14,8 @@ Implementation and data of the experiments in the following paper:
 } 
 
 Folders:
-code: Python code (and iPython notebook versions) for computing graph and sequence features and classification. (The PSL section will be added soon)
-data: Placeholder for the dataset. Instructions on how to download the dataset will be added soon.
+code: Python code (and iPython notebook versions) for computing graph and sequence features and classification, and exporting data for PSL.
+data: Placeholder for dataset please download the dataset from https://obj.umiacs.umd.edu/tagged_social_spam/index.html
 output: Placeholder for the features and predictions.
 
 Dependencies:
