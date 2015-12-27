@@ -1,3 +1,5 @@
+![Collective Spammer Detection in Evolving Multi-Relational Social Networks](fakhraei-kdd15.gif)
+
 Implementation and data of the experiments in the following paper:
 
 @inproceedings{fakhraei2015collective,
