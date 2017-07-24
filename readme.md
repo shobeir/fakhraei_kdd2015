@@ -18,7 +18,7 @@ __Implementation and data of the experiments in the following paper:__
 __Folders:__  
 + _code_psl:_ PSL code for collective spammer detection.  
 + _code_python:_ Python code (and iPython notebook versions) for computing graph and sequence features and classification, and exporting data for PSL.  
-+ _data:_ Placeholder for dataset please download the dataset from https://obj.umiacs.umd.edu/tagged_social_spam/index.html  
++ _data:_ Placeholder for dataset please download the dataset from https://linqs-data.soe.ucsc.edu/public/social_spammer/  
 + _output:_ Placeholder for the features and predictions.  
   
 __Dependencies:__  
@@ -27,4 +27,4 @@ __Dependencies:__
 + _scikit-learn:_ http://scikit-learn.org/stable/  
   
 __A copy of the paper can be found here:__  
-http://linqs.cs.umd.edu/basilic/web/Publications/2015/fakhraei:kdd15/  
+https://linqspub.soe.ucsc.edu/basilic/web/Publications/2015/fakhraei:kdd15/
