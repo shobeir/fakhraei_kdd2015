@@ -27,5 +27,4 @@ __Dependencies:__
 + _scikit-learn:_ http://scikit-learn.org/stable/  
   
 __A copy of the paper can be found here:__  
-https://dl.acm.org/citation.cfm?id=2788606
-https://www.cs.umd.edu/~shobeir/papers/fakhraei_kdd_2015.pdf
+https://dl.acm.org/citation.cfm?id=2788606 or https://www.cs.umd.edu/~shobeir/papers/fakhraei_kdd_2015.pdf
